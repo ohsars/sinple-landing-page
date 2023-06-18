@@ -11,7 +11,7 @@ import airbnb from "../assets/airbnb.png"
 import binance from "../assets/binance.png"
 import coinbase from "../assets/coinbase.png"
 import dropbox from "../assets/dropbox.png"
-import send from "../assets/send.svg"
+// import send from "../assets/send.svg"
 import shield from "../assets/shield.svg"
 import star from "../assets/star.svg"
 
